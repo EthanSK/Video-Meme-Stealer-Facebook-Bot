@@ -50,8 +50,8 @@ echo "</pre>";
 
 
 $fb = new Facebook\Facebook([
-  'app_id' => '1822644451348499',
-  'app_secret' => 'f7c9dddc762893ee9d6c5ab7fe029dd0',
+  'app_id' => '...',
+  'app_secret' => '...',
   'default_graph_version' => 'v2.8',
   ]);
 
