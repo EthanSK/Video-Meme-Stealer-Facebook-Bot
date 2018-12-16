@@ -1,0 +1,6 @@
+{
+  "require" : {
+    "facebook/php-sdk-v4" : "~5.0",
+    "jenssegers/mongodb": "^3.2"
+  }
+}
